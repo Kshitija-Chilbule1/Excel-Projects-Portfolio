@@ -2,6 +2,8 @@
 
 HiTech Azure is a cloud company. HiTech Azure is analyzing its adoption funnel to identify drop-off points and evaluate the effectiveness of its onboarding journey. The focus is on stages from REGISTRATION to WORKSHOP ATTENDED, SIGNED_UP, and PAID. The goal is to refine strategies to improve user retention and increase successful cloud adoption rates.
 
+## [Access Live Google Sheet Here](https://docs.google.com/spreadsheets/d/1eFyL8MTQaROb5tMNXzlU90yEyND91l6CdVQxDH66_50/edit?usp=sharing)
+
 ## 📝 Project Overview
 
 ### Objectives
