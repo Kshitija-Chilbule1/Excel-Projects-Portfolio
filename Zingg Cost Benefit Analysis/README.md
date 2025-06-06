@@ -19,7 +19,6 @@ The company produces Zingg in 1000 ml bottles.
   - As per the new plan, 800,000 units were expected to be sold in March, with a projected 10% increase in sales for each subsequent month.
 
 **- Raw Material Details**
-
 To produce this cold drink, the following raw materials are required:
 
 | **Raw Material**       | **Proportion (%)** |
@@ -42,17 +41,18 @@ The price of raw material per litre in Rs. is provided as below:
 | Preservatives          | 400                    |
 | Coloring Agents        | 500                    |
 
-- Bottling and Processing Costs
-  - As per the old plan,  bottling  cost per unit is ₹2.
-  - As per the new plan,  bottling  cost per unit is ₹3.
-  - As per the old plan and new plan, processing cost per unit will be ₹6.
+**- Bottling and Processing Costs**
+  - As per the old plan, the  bottling  cost per unit is ₹2.
+  - As per the new plan, the  bottling  cost per unit is ₹3.
+  - As per the old plan and the new plan, the processing cost per unit will be ₹6.
 
- - Fixed Costs Old
+ **- Fixed Costs Old**
    - The factory expenses include a monthly rent of ₹150,000 and cold storage costs of ₹75,000.
    - The marketing budget starts at ₹80,000 for the first month, with a planned 10% increase each following month.
 
-- New Ad Plan
+**- New Ad Plan**
   - The company will launch the advertising campaign in March and continue it until August.
-  - As per the new plan, Ads preparation cost will be 10,000,000 ,New Bottling Mould will cost 95,000
+  - As per the new plan, the Ads preparation cost will be 10,000,000, the New Bottling Mould will cost 95,000
   - Incremental Advertising cost will be 23,000,000, which will be divided equally in the campaign period.
-  
+
+
